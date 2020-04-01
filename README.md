@@ -52,6 +52,22 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 Auhtor: Christian Scholz, March 2020
 
+HowTo
+---------------------------------------------------------------------
+1. Download and extract all files from the repository or use
+
+   git clone https://github.com/coscholz1984/nNet-octave.git
+   
+   This will clone the repository to the folder nNet-octave.
+   
+2. Download the EMNIST dataset, for instance from 
+   
+   https://www.nist.gov/itl/products-and-services/emnist-dataset
+   
+   and extract the file emnist-digits.mat into the nNet-octave folder.
+   
+3. Start octave and run the script nNetPredictDigits.m
+
 Summary of attched scripts
 ---------------------------------------------------------------------
 
